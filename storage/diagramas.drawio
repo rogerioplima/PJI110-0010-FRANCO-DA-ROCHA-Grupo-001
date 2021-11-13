@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T09:23:10.119Z" agent="5.0 (X11)" etag="Q9LxHUAnDukToQVfXOIP" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T09:26:42.474Z" agent="5.0 (X11)" etag="bR8LsGvisBSO5h2p2HLc" version="15.7.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3633" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -655,12 +655,6 @@
         <mxCell id="FPVfg6YlI_M1T-aiV1F8-6" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;Avaliar:&lt;/h1&gt;&lt;p&gt;Avaliar a utilização do instante (em segundos - Unix Time - INTEGER) como chave primária; ou um INTEGER autoincrementado.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="280.8" y="805" width="450" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FPVfg6YlI_M1T-aiV1F8-15" value="11/nov/21" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="460" y="1120" width="360" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FPVfg6YlI_M1T-aiV1F8-16" value="11/nov/21" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1120" width="360" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="D4F2W0Lk3epfoqQeuSML-1" value="rogerioplima/PJI110-0010-FRANCO-DA-ROCHA-Grupo-001/" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=left;fontColor=#2E2E2E;" parent="1" vertex="1">
           <mxGeometry x="400" y="870" width="380" height="40" as="geometry" />
         </mxCell>
@@ -722,8 +716,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zp0iw9BunchANeZy4hwJ-10" value="&lt;div&gt;Esta página foi escrita a fim de compartilhar com o grupo informações relevantes para tomada de decisões relacionadas a como implementar as etiquetas ao nosso projeto.&lt;/div&gt;&lt;div&gt;Apesar do que&lt;br&gt; &lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="-1640" y="40" width="780" height="30" as="geometry" />
+        <mxCell id="zp0iw9BunchANeZy4hwJ-10" value="&lt;div align=&quot;left&quot;&gt;Esta página foi escrita a fim de compartilhar com o grupo informações relevantes para tomada de decisões relacionadas a como implementar as etiquetas ao nosso projeto.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="40" width="460" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
