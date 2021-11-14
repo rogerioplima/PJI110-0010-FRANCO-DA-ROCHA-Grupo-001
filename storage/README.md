@@ -6,7 +6,7 @@ Nesses diagramas também é possível ver quando cada consulta deve ser executad
 
 ## Como faço para abrir os diagramas? 
 
-1. Acessar o [draw.io](https://app.diagrams.net/)
+1. Acesse o [draw.io](https://app.diagrams.net/)
 2. Menu Arquivo > GitHub > [Autorize e faça login no GitHub]
 3. Menu Arquivo > GitHub > "rogerioplima/PJI110-0010-FRANCO-DA-ROCHA-Grupo-001" > "storage/" > "diagramas.drawio"
 
