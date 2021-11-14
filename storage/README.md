@@ -9,7 +9,7 @@ Nesses diagramas também é possível ver quando cada consulta deve ser executad
 2. Menu Arquivo > GitHub > [Autorize e faça login no GitHub]
 3. Menu Arquivo > GitHub > "rogerioplima/PJI110-0010-FRANCO-DA-ROCHA-Grupo-001" > "storage/" > "diagramas.drawio"
 
-*É necessário que a pessoa tenha sido adicionada à lista de Colaboradores do repositório"
+*É necessário que a pessoa tenha sido adicionada à lista de Colaboradores do repositório*
 
 ## Observações
 
