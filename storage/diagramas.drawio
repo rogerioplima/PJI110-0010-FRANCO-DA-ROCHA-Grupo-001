@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T00:22:42.401Z" agent="5.0 (X11)" etag="norQTNBWiXTA_tQI2Kkt" version="15.7.3" type="github">
-  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3966" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+<mxfile host="app.diagrams.net" modified="2021-11-21T18:55:40.203Z" agent="5.0 (X11)" etag="UIxzjtIrQPC8Ngfloj4p" version="15.8.3" type="github" pages="2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Banco de dados + QR">
+    <mxGraphModel dx="4154" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -661,57 +661,57 @@
         <mxCell id="D4F2W0Lk3epfoqQeuSML-2" value="rogerioplima/PJI110-0010-FRANCO-DA-ROCHA-Grupo-001/" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=left;fontColor=#2E2E2E;" parent="1" vertex="1">
           <mxGeometry x="1225" y="870" width="380" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nKAdA7qQOxgfN4ITX2_d-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;" parent="1" edge="1">
+        <mxCell id="nKAdA7qQOxgfN4ITX2_d-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2470" y="18" as="sourcePoint" />
             <mxPoint x="-1660" y="18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nKAdA7qQOxgfN4ITX2_d-2" value="divulgado no Whatsapp em 17 de setembro de 2021 " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#67AB9F;" parent="nKAdA7qQOxgfN4ITX2_d-1" vertex="1" connectable="0">
+        <mxCell id="nKAdA7qQOxgfN4ITX2_d-2" value="divulgado no Whatsapp em 17 de setembro de 2021 " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="nKAdA7qQOxgfN4ITX2_d-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zp0iw9BunchANeZy4hwJ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;" parent="1" edge="1">
+        <mxCell id="zp0iw9BunchANeZy4hwJ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1640" y="18" as="sourcePoint" />
             <mxPoint x="-830" y="18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zp0iw9BunchANeZy4hwJ-2" value="divulgado no Whatsapp em 13 de outubro de 2021" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#67AB9F;" parent="zp0iw9BunchANeZy4hwJ-1" vertex="1" connectable="0">
+        <mxCell id="zp0iw9BunchANeZy4hwJ-2" value="divulgado no Whatsapp em 13 de outubro de 2021" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="zp0iw9BunchANeZy4hwJ-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zp0iw9BunchANeZy4hwJ-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;" parent="1" edge="1">
+        <mxCell id="zp0iw9BunchANeZy4hwJ-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-820" y="18" as="sourcePoint" />
             <mxPoint x="-10.000000000000455" y="18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zp0iw9BunchANeZy4hwJ-4" value="divulgado no Whatsapp em 13 de outubro de 2021" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#67AB9F;" parent="zp0iw9BunchANeZy4hwJ-3" vertex="1" connectable="0">
+        <mxCell id="zp0iw9BunchANeZy4hwJ-4" value="divulgado no Whatsapp em 13 de outubro de 2021" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="zp0iw9BunchANeZy4hwJ-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zp0iw9BunchANeZy4hwJ-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;" parent="1" edge="1">
+        <mxCell id="zp0iw9BunchANeZy4hwJ-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="18" as="sourcePoint" />
             <mxPoint x="819.9999999999995" y="18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zp0iw9BunchANeZy4hwJ-7" value="divulgado no Collaborate na reunião de Orientação com a Adriana em 11 de novembro de 2021" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#67AB9F;" parent="zp0iw9BunchANeZy4hwJ-6" vertex="1" connectable="0">
+        <mxCell id="zp0iw9BunchANeZy4hwJ-7" value="divulgado no Collaborate na reunião de Orientação com a Adriana em 11 de novembro de 2021" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="zp0iw9BunchANeZy4hwJ-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zp0iw9BunchANeZy4hwJ-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;" parent="1" edge="1">
+        <mxCell id="zp0iw9BunchANeZy4hwJ-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="18" as="sourcePoint" />
             <mxPoint x="1650" y="18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zp0iw9BunchANeZy4hwJ-9" value="divulgado no Collaborate na reunião de Orientação com a Adriana em 11 de novembro de 2021" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#67AB9F;" parent="zp0iw9BunchANeZy4hwJ-8" vertex="1" connectable="0">
+        <mxCell id="zp0iw9BunchANeZy4hwJ-9" value="divulgado no Collaborate na reunião de Orientação com a Adriana em 11 de novembro de 2021" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="zp0iw9BunchANeZy4hwJ-8" vertex="1" connectable="0">
           <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -719,6 +719,45 @@
         <mxCell id="zp0iw9BunchANeZy4hwJ-10" value="&lt;div align=&quot;left&quot;&gt;Esta página foi escrita a fim de compartilhar com o grupo informações relevantes para tomada de decisões relacionadas a como implementar as etiquetas ao nosso projeto.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="-1480" y="40" width="460" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=40.46511627906977;endSize=30.03953488372093;endWidth=4.077879935100054;fillColor=#fad9d5;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1663" y="65.66" as="sourcePoint" />
+            <mxPoint x="2473" y="65.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-2" value="&lt;div&gt;Desenvolvimento&lt;/div&gt;&lt;div&gt;pool: Python + Flask + SQLAlchemy + Atom + W3.schools + Normalize.css + google fonts + &lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="PJehrxAR3oNC1eT--ZiJ-1">
+          <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-3" value="SQL Alchemy &lt;a href=&quot;https://www.sqlalchemy.org/&quot;&gt;Documentation&lt;/a&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1068" width="750" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Referências&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1038" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-5" value="&lt;h1&gt;SQLAlchemy&lt;/h1&gt;&lt;p&gt;É uma ORM (Object Relational Mapping), não requer uso de instruções SQL diretamente. A ferramenta faz isso.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="125.5" width="160" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="s-nKLP-LHqoDezH3qdpQ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="18" as="sourcePoint" />
+            <mxPoint x="2470" y="18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s-nKLP-LHqoDezH3qdpQ-2" value="Divulgado no GitHub - um commit a cada edição - a partir de 11NOV21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="s-nKLP-LHqoDezH3qdpQ-1">
+          <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hSoCFjVKnulDozE0q99-" name="WEB">
+    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7PZ116PHZRm_xhAo_Yeq-0" />
+        <mxCell id="7PZ116PHZRm_xhAo_Yeq-1" parent="7PZ116PHZRm_xhAo_Yeq-0" />
       </root>
     </mxGraphModel>
   </diagram>
