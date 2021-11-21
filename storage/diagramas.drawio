@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T18:55:40.203Z" agent="5.0 (X11)" etag="UIxzjtIrQPC8Ngfloj4p" version="15.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-21T19:19:21.628Z" agent="5.0 (X11)" etag="9PsLYIvxsIN0XNTVqvl3" version="15.8.3" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Banco de dados + QR">
     <mxGraphModel dx="4154" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -749,6 +749,9 @@
           <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s-nKLP-LHqoDezH3qdpQ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1660" width="810" height="1160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
