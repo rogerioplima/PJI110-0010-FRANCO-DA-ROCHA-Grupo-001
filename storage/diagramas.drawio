@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T19:19:21.628Z" agent="5.0 (X11)" etag="9PsLYIvxsIN0XNTVqvl3" version="15.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-25T21:06:02.132Z" agent="5.0 (X11)" etag="TERAaic5AsqpTb6S3qlu" version="15.8.3" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Banco de dados + QR">
-    <mxGraphModel dx="4154" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3139" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-5" value=" idqrcode INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-3" vertex="1">
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-5" value=" id INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-3" vertex="1">
           <mxGeometry x="30" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -70,7 +70,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-16" value="idsolicitacao INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-14" vertex="1">
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-16" value="id INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-14" vertex="1">
           <mxGeometry x="30" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -127,7 +127,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-26" value="iddoador INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-24" vertex="1">
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-26" value="id INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-24" vertex="1">
           <mxGeometry x="30" width="170" height="30" as="geometry">
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -274,7 +274,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8LQjrPQ2jsGGcyPJ4CPY-54" value="idsolicitacao INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="8LQjrPQ2jsGGcyPJ4CPY-52" vertex="1">
+        <mxCell id="8LQjrPQ2jsGGcyPJ4CPY-54" value="id INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="8LQjrPQ2jsGGcyPJ4CPY-52" vertex="1">
           <mxGeometry x="30" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -335,7 +335,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8LQjrPQ2jsGGcyPJ4CPY-74" value="idtransacao INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="8LQjrPQ2jsGGcyPJ4CPY-72" vertex="1">
+        <mxCell id="8LQjrPQ2jsGGcyPJ4CPY-74" value="id INTEGER NN " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;strokeColor=#457B9D;fontColor=#1D3557;" parent="8LQjrPQ2jsGGcyPJ4CPY-72" vertex="1">
           <mxGeometry x="30" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -719,38 +719,38 @@
         <mxCell id="zp0iw9BunchANeZy4hwJ-10" value="&lt;div align=&quot;left&quot;&gt;Esta página foi escrita a fim de compartilhar com o grupo informações relevantes para tomada de decisões relacionadas a como implementar as etiquetas ao nosso projeto.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="-1480" y="40" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJehrxAR3oNC1eT--ZiJ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=40.46511627906977;endSize=30.03953488372093;endWidth=4.077879935100054;fillColor=#fad9d5;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=40.46511627906977;endSize=30.03953488372093;endWidth=4.077879935100054;fillColor=#fad9d5;strokeColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1663" y="65.66" as="sourcePoint" />
             <mxPoint x="2473" y="65.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJehrxAR3oNC1eT--ZiJ-2" value="&lt;div&gt;Desenvolvimento&lt;/div&gt;&lt;div&gt;pool: Python + Flask + SQLAlchemy + Atom + W3.schools + Normalize.css + google fonts + &lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="PJehrxAR3oNC1eT--ZiJ-1">
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-2" value="&lt;div&gt;Desenvolvimento&lt;/div&gt;&lt;div&gt;pool: Python + Flask + SQLAlchemy + Atom + W3.schools + Normalize.css + google fonts + &lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="PJehrxAR3oNC1eT--ZiJ-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJehrxAR3oNC1eT--ZiJ-3" value="SQL Alchemy &lt;a href=&quot;https://www.sqlalchemy.org/&quot;&gt;Documentation&lt;/a&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-3" value="SQL Alchemy &lt;a href=&quot;https://www.sqlalchemy.org/&quot;&gt;Documentation&lt;/a&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="1680" y="1068" width="750" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="PJehrxAR3oNC1eT--ZiJ-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Referências&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Referências&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
           <mxGeometry x="1670" y="1038" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PJehrxAR3oNC1eT--ZiJ-5" value="&lt;h1&gt;SQLAlchemy&lt;/h1&gt;&lt;p&gt;É uma ORM (Object Relational Mapping), não requer uso de instruções SQL diretamente. A ferramenta faz isso.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="PJehrxAR3oNC1eT--ZiJ-5" value="&lt;h1&gt;SQLAlchemy&lt;/h1&gt;&lt;p&gt;É uma ORM (Object Relational Mapping), não requer uso de instruções SQL diretamente. A ferramenta faz isso.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1670" y="125.5" width="160" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="s-nKLP-LHqoDezH3qdpQ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;fontColor=#000000;" edge="1" parent="1">
+        <mxCell id="s-nKLP-LHqoDezH3qdpQ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22;endSize=29.31388888888889;endWidth=5;fillColor=#d5e8d4;strokeColor=none;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1660" y="18" as="sourcePoint" />
             <mxPoint x="2470" y="18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s-nKLP-LHqoDezH3qdpQ-2" value="Divulgado no GitHub - um commit a cada edição - a partir de 11NOV21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="s-nKLP-LHqoDezH3qdpQ-1">
+        <mxCell id="s-nKLP-LHqoDezH3qdpQ-2" value="Divulgado no GitHub - um commit a cada edição - a partir de 11NOV21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="s-nKLP-LHqoDezH3qdpQ-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0622" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s-nKLP-LHqoDezH3qdpQ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="s-nKLP-LHqoDezH3qdpQ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1660" width="810" height="1160" as="geometry" />
         </mxCell>
       </root>
